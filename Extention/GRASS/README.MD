@@ -8,4 +8,4 @@ Grass Stage 2: Capturing the Web
 - Download App (desktop only) < Opsional
 - Run 24/7
 
-Epoch 1 will start 14 Oct - 14 No
+Epoch 1 will start 14 Oct - 14 Nov, Epoch 2 15 Nov - 16 Dec,  Epoch 3 17 Dec - Now
